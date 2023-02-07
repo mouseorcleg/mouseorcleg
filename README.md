@@ -4,15 +4,14 @@ Hi, I’m Maria, a driven and motivated junior iOS developer.
 My positive attitude and love for all things Apple, combined with strong communication skills, make me an asset to any team. 
 With a background in education and self-directed research spanning 10 years, I’ve honed my time management abilities and am ready to tackle any challenge.
 
-My projects
+## My projects
+<img align="right" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="50" alt="app icon">
 
 ### TomatoTomato
 
-// Icon
-
 My inaugural project, TomatoTomato is a todo list app with an integrated pomodoro timer.
 
-// header
+![GitHub_header](https://user-images.githubusercontent.com/45575272/217280825-3cf6aa46-668d-4ee3-b11e-b0f0e30ef570.png)
 
 Development of TomatoTomato was challenging, but with the help of my mentor, resources from the Swiftful Thinking, and extensive use of the Swift documentation, I was able to publish the first version as an open-source project on GitHub.
 
@@ -24,10 +23,12 @@ Things I learned:
 * How to  work with Timers and integrate them with ViewModels.
 * I honed my skills with Navigation and List views as well.
 
+<a href="https://github.com/mouseorcleg/TomatoTomato2">
+<img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
+
 Technologies I used:
 - MVVM, SwiftUI, CoreData, Storyboard
 
-// GitHub icon
 
 ## Inspo
 // Icon
