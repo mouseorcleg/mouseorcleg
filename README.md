@@ -15,7 +15,7 @@ My inaugural project, TomatoTomato is a todo list app with an integrated pomodor
 
 Development of TomatoTomato was challenging, but with the help of my mentor, resources from the Swiftful Thinking, and extensive use of the Swift documentation, I was able to publish the first version as an open-source project on GitHub.
 
-Things I learned:
+**Things I learned:**
 
 * How to manage CoreData by integrating it into an MVVM structure and write clear and concise CRUD functions. 
 * Support for Dark mode, Landscape, and iPad using SwiftUI.
@@ -26,26 +26,27 @@ Things I learned:
 <a href="https://github.com/mouseorcleg/TomatoTomato2">
 <img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
 
-Technologies I used:
+**Technologies I used:**
 - MVVM, SwiftUI, CoreData, Storyboard
 
 
 ## Inspo
-// Icon
 
+<img align="left" src="https://user-images.githubusercontent.com/45575272/216647355-1809e752-c46d-44a2-bd2e-ccd757c3d3f8.png" width="70" alt="app icon" >
 Inspo is the simple app where you can get a random picture from the Harvard Museum collection for a dose of pure visual inspiration.
 
-// header
+![inspoHeader](https://user-images.githubusercontent.com/45575272/216647707-5b1b6d39-a449-46a0-b5d9-d02a4f1b6490.png)
 
 This project marked my first experience working with async images and utilising an Open API from the museum. This project was a tribute to my background in art history. 
 
-Things I learned:
+**Things I learned:**
 * how to work with AsyncImage to display images efficiently, 
 * how to access and work with data from an open API, 
 * how to incorporate gestures into my app using SwiftUI, 
 * how to implement persistence in the networking layer to ensure a smooth user experience
 
-Technologies I used:
-- MVVM, SwfitUI, Open API, JSON decoder,  AsyncImage
+<a href="https://github.com/mouseorcleg/Inspo">
+<img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
 
-// GitHub icon
+**Technologies I used:**
+- MVVM, SwfitUI, Open API, JSON decoder,  AsyncImage
