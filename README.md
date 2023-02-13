@@ -5,7 +5,8 @@ My positive attitude and love for all things Apple, combined with strong communi
 With a background in education and self-directed research spanning 10 years, I’ve honed my time management abilities and am ready to tackle any challenge.
 
 ## My projects
-<img align="right" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="50" alt="app icon">
+
+<img align="left" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="70" alt="app icon">
 
 ### TomatoTomato
 
@@ -50,3 +51,26 @@ This project marked my first experience working with async images and utilising 
 
 **Technologies I used:**
 - MVVM, SwfitUI, Open API, JSON decoder,  AsyncImage
+
+## Capital Weather
+
+<img align="left" src="https://user-images.githubusercontent.com/45575272/218483424-3b8de8b7-91ad-4c9a-85ab-48b103478162.png" width="70" alt="app icon">
+
+Capital Weather is a simple weather app built for training purposes.  The app provides the current weather at the user’s location, and also allows the user to add and track weather in other cities using the search feature. While the app is simple in design, it was a valuable learning experience for me.
+
+The things I learned:
+
+* Utilising JSON decoding to fetch weather data from Open API.
+* Working with User Defaults to save user-specific data.
+* Implementing Scroll View and List Views for a better user experience.
+* Adding search functionality to the app.
+* Incorporating User Location for live weather updates.
+
+<a href="https://github.com/mouseorcleg/capitalWeather">
+<img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
+
+Technologies I used:
+Swift UI, MVVM, JSON decoder, Open API, User Defaults
+
+
+
