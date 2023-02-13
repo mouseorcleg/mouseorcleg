@@ -74,7 +74,7 @@ Capital Weather is a simple weather app built for training purposes.  The app pr
 <img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
 
 **Technologies I used:**
-* Swift UI, MVVM, JSON decoder, Open API, User Defaults
+* SwiftUI, MVVM, JSON decoder, Open API, User Defaults
 
 ## My learning journey 🗺
 
