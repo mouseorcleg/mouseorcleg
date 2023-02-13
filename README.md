@@ -1,12 +1,12 @@
-## About
+## About 👋
 
 Hi, I’m Maria, a driven and motivated junior iOS developer. 
 My positive attitude and love for all things Apple, combined with strong communication skills, make me an asset to any team. 
 With a background in education and self-directed research spanning 10 years, I’ve honed my time management abilities and am ready to tackle any challenge.
 
-## My projects
+## My projects 👩‍💻
 
-<img align="left" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="70" alt="app icon">
+<img align="right" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="70" alt="app icon">
 
 ### TomatoTomato
 
@@ -30,8 +30,9 @@ Development of TomatoTomato was challenging, but with the help of my mentor, res
 **Technologies I used:**
 - MVVM, SwiftUI, CoreData, Storyboard
 
+-----------
 
-## Inspo
+### Inspo
 
 <img align="left" src="https://user-images.githubusercontent.com/45575272/216647355-1809e752-c46d-44a2-bd2e-ccd757c3d3f8.png" width="70" alt="app icon" >
 Inspo is the simple app where you can get a random picture from the Harvard Museum collection for a dose of pure visual inspiration.
@@ -52,7 +53,9 @@ This project marked my first experience working with async images and utilising 
 **Technologies I used:**
 - MVVM, SwfitUI, Open API, JSON decoder,  AsyncImage
 
-## Capital Weather
+-----------
+
+### Capital Weather
 
 <img align="left" src="https://user-images.githubusercontent.com/45575272/218483424-3b8de8b7-91ad-4c9a-85ab-48b103478162.png" width="70" alt="app icon">
 
@@ -70,3 +73,11 @@ Capital Weather is a simple weather app built for training purposes.  The app pr
 
 **Technologies I used:**
 * Swift UI, MVVM, JSON decoder, Open API, User Defaults
+
+## My learning journey 🗺
+
+As a self and community-taught developer, I started learning to code with Apple Playground courses in early 2022. From there, I moved on to official Apple tutorials and documentation, and joined **Ladies of Code** coding club where I learned about TDD, design patterns, and ensemble coding. I also attended webinars and meetups with **Women Who Code** to further develop my skills.
+
+During the summer, I worked on several projects with  my mentor, [@togramago](https://github.com/togramago), and spent time on Codewars. These experiences enabled me to design and build the apps in this portfolio using community resources such as Hacking with Swift, Kodeco (formerly Rey Wanderlich), StackOverflow, Sean Allen channel, and Swiftwul Thinking.
+
+In the future, I aim to explore new frameworks, architectures, and technologies to enhance my skills and develop more powerful and sophisticated apps. I'm keen on trying out the **VIPER** architecture and refreshing my knowledge of **UIKit**. If you're interested in collaborating with me, don't hesitate to reach out!
