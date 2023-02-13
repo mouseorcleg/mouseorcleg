@@ -4,6 +4,8 @@ Hi, I’m Maria, a driven and motivated junior iOS developer.
 My positive attitude and love for all things Apple, combined with strong communication skills, make me an asset to any team. 
 With a background in education and self-directed research spanning 10 years, I’ve honed my time management abilities and am ready to tackle any challenge.
 
+📮 Don't hesitate to reach out on [Twitter](https://twitter.com/mouse_or_cleg) or [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/).
+
 ## My projects 👩‍💻
 
 <img align="right" src="https://user-images.githubusercontent.com/45575272/214887495-2ca768f0-5827-41b8-b479-23511ea8fb47.png" width="70" alt="app icon">
