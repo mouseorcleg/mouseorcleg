@@ -58,8 +58,7 @@ This project marked my first experience working with async images and utilising 
 
 Capital Weather is a simple weather app built for training purposes.  The app provides the current weather at the user’s location, and also allows the user to add and track weather in other cities using the search feature. While the app is simple in design, it was a valuable learning experience for me.
 
-The things I learned:
-
+**The things I learned:**
 * Utilising JSON decoding to fetch weather data from Open API.
 * Working with User Defaults to save user-specific data.
 * Implementing Scroll View and List Views for a better user experience.
@@ -69,8 +68,5 @@ The things I learned:
 <a href="https://github.com/mouseorcleg/capitalWeather">
 <img align="right" src="https://user-images.githubusercontent.com/45575272/217281369-d31c7297-716c-4aae-b63e-f49de975d06b.png" width="50" alt="github mark"></a>
 
-Technologies I used:
-Swift UI, MVVM, JSON decoder, Open API, User Defaults
-
-
-
+**Technologies I used:**
+* Swift UI, MVVM, JSON decoder, Open API, User Defaults
