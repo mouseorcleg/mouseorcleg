@@ -1,10 +1,11 @@
 ## About 👋
 
-Hi, I’m Maria, a driven and motivated junior iOS developer. 
-My positive attitude and love for all things Apple, combined with strong communication skills, make me an asset to any team. 
-With a background in education and self-directed research spanning 10 years, I’ve honed my time management abilities and am ready to tackle any challenge.
+Hi there! I’m Maria, an iOS developer passionate about making technology accessible for everyone. I love supporting women in STEM and enjoy sharing ideas through public speaking.
+  
+▶️ Check out my talk at SwiftLeeds 2024: [What Not To Do While Designing App-wide Components](https://youtu.be/IwuljTsofzw).  
+📮 Say hi on [Twitter](https://twitter.com/mouse_or_cleg) or [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/).  
 
-📮 Don't hesitate to reach out on [Twitter](https://twitter.com/mouse_or_cleg) or [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/).
+You can also catch me at [NSLondon](https://nslondon.com) or [iOSDev Happy Hour](https://links.iosdevhappyhour.com).  
 
 ## My projects 👩‍💻
 
