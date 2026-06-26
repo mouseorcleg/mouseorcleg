@@ -3,7 +3,7 @@
 Hi there! I’m Masha, an iOS developer passionate about making apps accessible for everyone. I am passionate about supporting women in STEM and enjoy sharing ideas through public speaking.
   
 ▶️ Check out my talk at SwiftLeeds 2024: [What Not To Do While Designing App-wide Components](https://youtu.be/IwuljTsofzw).  
-📮 Say hi on [Twitter](https://twitter.com/mouse_or_cleg) or [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/).  
+📮 Say hi on [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/) or [Twitter](https://twitter.com/mouse_or_cleg).
 
 You can also catch me at [NSLondon](https://nslondon.com) or [iOSDev Happy Hour](https://links.iosdevhappyhour.com).  
 
