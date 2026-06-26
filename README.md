@@ -1,6 +1,6 @@
 ## About 👋
 
-Hi there! I’m Maria, an iOS developer passionate about making technology accessible for everyone. I love supporting women in STEM and enjoy sharing ideas through public speaking.
+Hi there! I’m Masha, an iOS developer passionate about making apps accessible for everyone. I am passionate about supporting women in STEM and enjoy sharing ideas through public speaking.
   
 ▶️ Check out my talk at SwiftLeeds 2024: [What Not To Do While Designing App-wide Components](https://youtu.be/IwuljTsofzw).  
 📮 Say hi on [Twitter](https://twitter.com/mouse_or_cleg) or [LinkedIn](https://www.linkedin.com/in/maria-kharybina-b0993148/).  
